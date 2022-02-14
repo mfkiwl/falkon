@@ -5,6 +5,7 @@ from typing import List, Dict, Any
 
 import torch
 
+from falkon import FalkonOptions  # noqa
 from falkon.kernels import GaussianKernel
 
 
